@@ -1,3 +1,9 @@
+# sourencho.github.io
+
+```
+bundle exec jekyll serve
+```
+
 # Asko
 
 Asko is a simple and minimalistic jekyll blogging theme.  

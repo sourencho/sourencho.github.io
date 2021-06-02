@@ -1,10 +1,10 @@
-site: Asko
+site: sourencho
 url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+title: sourencho
+description: sourencho's personal site
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: sourencho
   card: summary
   creator: #yourusername
 author:
