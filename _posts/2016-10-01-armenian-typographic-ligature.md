@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Armenian Typographic Ligature
+title: Typographic Ligature
 description: Armenian Typographic Ligature
 summary: Armenian Typographic Ligature
 comments: false
@@ -25,5 +25,6 @@ _Ն + Ա_
 <img src="/assets/images/NA.jpg"> 
 
 <br>
-<br>
-_*  this post was revised and uploaded on 2021_
+<hr>
+
+_*  this post was created retroactively in june 2021_
