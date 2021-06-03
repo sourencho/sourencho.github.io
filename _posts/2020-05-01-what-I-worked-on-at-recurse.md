@@ -32,7 +32,7 @@ While I was there these are the things I worked on and studied:
 - Organized a game jam and made the first version of [mimic](https://sourencho.itch.io/mimic) with a friend.
 <br>
 
-- Worked a bit with a friend on their open-world game where you can freely talk to NPCs using a language system.
+- Worked a bit with a friend on their open-world unity game where you can freely talk to NPCs using a language system.
 <br>
 
 - Started a Game Dev Interest Group at RC with a friend which I still attend a year and a half later!
@@ -64,7 +64,7 @@ While I was there these are the things I worked on and studied:
 
 ### Unity
 
-- Worked through [many](https://github.com/sourencho/catlike_coding_unity) of the [Catlike Coding](https://catlikecoding.com/unity/tutorials/) tutorials to gain a better understand of Unity.
+- Worked through [many](https://github.com/sourencho/catlike_coding_unity) of the [Catlike Coding](https://catlikecoding.com/unity/tutorials/) tutorials to gain a better understanding of Unity.
 
 <br>
 
@@ -83,9 +83,9 @@ While I was there these are the things I worked on and studied:
 # Images
 
 <p align="center">
-    <img src="/assets/images/mimic.gif">
-    <img src="/assets/images/rasterizer.gif">
-    <img src="/assets/images/picomarch.gif">
+    <img width=320px height=320px src="/assets/images/mimic.gif">
+    <img width=320px height=320px src="/assets/images/rasterizer.gif">
+    <img width=320px height=320px src="/assets/images/picomarch.gif">
     <img src="/assets/images/jrots.png">
 </p>
 
