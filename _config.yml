@@ -1,7 +1,7 @@
 site: sourencho
 url: #yoururl
 title: sourencho
-description: souren's personal site
+description:
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: sourencho
@@ -61,3 +61,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+google_analytics: G-NWPF0J9ET3
