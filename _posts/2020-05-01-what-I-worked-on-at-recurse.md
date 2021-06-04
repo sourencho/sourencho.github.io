@@ -7,17 +7,17 @@ comments: false
 tags: [learning, gamedev, graphics, livecoding, pico8]
 ---
 
-After working at Yelp for three years as a data engineer I decided to quit and figure out if I could shift into spending my days doing more creative coding.
+After working as a data engineer for three years I decided to quit and figure out if I could find a more creative application of coding.
 
-I heard about [The Recurse Center](https://www.recurse.com/) from a friend and applied with the hopes of exploring creative coding in a more structured and social setting.
+I heard about [The Recurse Center](https://www.recurse.com/) from a friend and applied with the hopes of exploring creative coding in a structured and social setting.
 
 > The Recurse Center is a self-directed, community-driven educational retreat for programmers based in New York City.
 
 <br>
 
-It turned out to be a fantastic decision - I learned a ton, made great friends and came out with the skills, knowledge and determination to pursue game development as a career.
+It turned out to be a fantastic decision. I learned a ton, made great friends and came out with the skills, knowledge and determination to pursue game development as a career.
 
-I stayed a batch and a half, which lasted 4.5 months. <br>
+I stayed for a batch and a half, which lasted 4.5 months. <br>
 While I was there these are the things I worked on and studied:
 
 <br>
