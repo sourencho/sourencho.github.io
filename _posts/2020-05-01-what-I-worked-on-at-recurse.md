@@ -4,7 +4,6 @@ title: What I did at Recurse
 description: What I worked on at Recurse Center
 summary: What I worked on at Recruse Center
 comments: false
-tags: [learning, gamedev, graphics, livecoding, pico8]
 ---
 
 I heard about [The Recurse Center](https://www.recurse.com/) from a friend and applied with the hopes of exploring creative coding in a structured and social setting.

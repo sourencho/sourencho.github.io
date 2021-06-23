@@ -4,7 +4,6 @@ title: Typographic Ligature
 description: Armenian Typographic Ligature
 summary: Armenian Typographic Ligature
 comments: false
-tags: [typography]
 ---
 
 Religious carvings in Armenia save space by using [ligatures](https://en.wikipedia.org/wiki/Ligature_(writing)).
