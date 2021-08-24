@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windstock Tweetcart
+title: Windsock Tweetcart
 description: First Tweetcart
 summary: First Tweetcart
 comments: false
@@ -10,7 +10,7 @@ I've been facinated by the tweetcarts I've seen on twitter recently. Tweetcarts 
 
 This is a great resource if you want see examples and how they are made: [pixienop: Pico-8 Tweetcart Studies](https://demobasics.pixienop.net/tweetcarts/).
 
-I tried my hand at making a tweetcart of a procedurally animated windstock.
+I tried my hand at making a tweetcart of a procedurally animated windsock.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First <a href="https://twitter.com/hashtag/pico8?src=hash&amp;ref_src=twsrc%5Etfw">#pico8</a> <a href="https://twitter.com/hashtag/tweetcart?src=hash&amp;ref_src=twsrc%5Etfw">#tweetcart</a> :D<br><br>source in reply<br>saw this wind thingy on the side of the road<br>had to remove the wind squiggles because of char count :| <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/ProceduralArt?src=hash&amp;ref_src=twsrc%5Etfw">#ProceduralArt</a> <a href="https://t.co/p5hb8QtEXb">pic.twitter.com/p5hb8QtEXb</a></p>&mdash; sourencho 🐧 (@sourencho) <a href="https://twitter.com/sourencho/status/1425115139108388865?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
