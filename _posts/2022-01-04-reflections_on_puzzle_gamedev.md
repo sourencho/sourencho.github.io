@@ -119,6 +119,7 @@ _itch.io analytics of referrers by day:_
 
 It was subsequently posted on other blogs with audiences who seem to like free browser games, which further increased the organic traggic on itch:
 - [terrysfreegameoftheweek.com](https://terrysfreegameoftheweek.com/mimic/)
+- [buried-treasure.orf](https://buried-treasure.org/2022/01/mimic/)
 - [blog.livedoor.jp/lkrejg](http://blog.livedoor.jp/lkrejg/archives/66173151.html)
 - [jayisgames.com](https://jayisgames.com/review/weekday-puzzle-n48.php)
 - [r/WebGames](https://www.reddit.com/r/WebGames/comments/rn97x4/mimic_by_sourencho_a_short_puzzle_game_where_you/) 
