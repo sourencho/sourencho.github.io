@@ -1,0 +1,57 @@
+---
+layout: post
+title: Favorites
+description: Lists of my favorite media
+summary: Lists of my favorite media
+comments: false
+---
+
+List of favorites in no particular order.
+
+### Books
+- On Earth We're Briefly Gorgeous
+- Piranesi
+- Exhalation
+- The Three-Body Problem
+- The Gene: An Intimate History
+- The Last Samurai
+- Stoner
+- The Wind-Up Bird Chronicle
+
+### Games
+
+- Dota 2
+- Age of Empires 2 & 4
+- Spelunkey 2
+- FEZ
+- Terraria
+- Dyson Sphere Program
+- Factorio
+- A Short Hike
+- The Witness
+- Elden Ring
+
+### Movies
+
+- Chungking Express
+- The Triplets of Belleville
+- Exit Through the Gift Shop
+- Lord of the Rings
+- Spirited Away
+- The Square
+- Parasite
+- Everything Everywhere All at Once
+- Pulp Fiction
+- Todo: Pick favorite Wes Anderson movie
+- Todo: Pick favorite Pixar movie
+
+### TV Shows
+- Fleabag
+- The Wire
+- Arcane
+- Hunter x Hunter
+- The Ping Pong Animation
+- Samurai Champloo
+- Mob Psycho 100
+- Firefly
+- Twin Peaks
