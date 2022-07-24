@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Favorites
-description: Lists of my favorite media
-summary: Lists of my favorite media
+description: Lists of my favorite stuff
+summary: Lists of my favorite stuff
 comments: false
 ---
 
@@ -33,6 +33,7 @@ List of favorites in no particular order.
 
 ### Movies
 
+- Tampopo
 - Chungking Express
 - The Triplets of Belleville
 - Exit Through the Gift Shop
@@ -42,16 +43,17 @@ List of favorites in no particular order.
 - Parasite
 - Everything Everywhere All at Once
 - Pulp Fiction
-- Todo: Pick favorite Wes Anderson movie
+- The Grand Budapest Hotel
 - Todo: Pick favorite Pixar movie
 
 ### TV Shows
 - Fleabag
 - The Wire
 - Arcane
+- Firefly
+- Twin Peaks
+- Fullmetal Alchemist: Brotherhood
 - Hunter x Hunter
 - The Ping Pong Animation
 - Samurai Champloo
 - Mob Psycho 100
-- Firefly
-- Twin Peaks
