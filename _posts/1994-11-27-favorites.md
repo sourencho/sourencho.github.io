@@ -9,14 +9,14 @@ comments: false
 List of favorites in no particular order.
 
 ### Books
-- On Earth We're Briefly Gorgeous
+- The Wind-Up Bird Chronicle
 - Piranesi
 - Exhalation
 - The Three-Body Problem
 - The Gene: An Intimate History
+- On Earth We're Briefly Gorgeous
 - The Last Samurai
 - Stoner
-- The Wind-Up Bird Chronicle
 
 ### Games
 
@@ -57,3 +57,10 @@ List of favorites in no particular order.
 - The Ping Pong Animation
 - Samurai Champloo
 - Mob Psycho 100
+
+### Food
+- Pujol, Mexico City
+- Absolute Bagels, New York
+- La Palma, San Francisco
+- Arsicault Bakery, San Francisco
+- Poloz Mukuch, Gyumri
