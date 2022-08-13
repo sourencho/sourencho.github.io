@@ -33,6 +33,7 @@ List of favorites in no particular order.
 
 ### Movies
 
+- Yi Yi
 - Tampopo
 - Chungking Express
 - The Triplets of Belleville
