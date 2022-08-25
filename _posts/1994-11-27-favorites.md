@@ -67,10 +67,12 @@ List of favorites in no particular order.
 - Poloz Mukuch, Gyumri
 
 ### Photographers
-- Cho Gi-Seok ([wesbite](http://chogiseok.com/))
+- Cho Gi-Seok ([website](http://chogiseok.com/))
 
-### Indie Game Developers
-- Rémy ([twitter](https://twitter.com/TRASEVOL_DOG))
+### Digital Art Developers 
+- Rémy ([website](https://trasevol-dog.itch.io/))
+- Saman Bemel Benrud ([website](https://trashmoon.com/))
+- Max Bittker ([website](https://maxbittker.com/))
 
 ### Illustrators
-- Tim Peacock ([website](https://timpeacock.com/)]
+- Tim Peacock ([website](https://timpeacock.com/))
