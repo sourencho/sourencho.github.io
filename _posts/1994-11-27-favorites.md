@@ -65,3 +65,12 @@ List of favorites in no particular order.
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Poloz Mukuch, Gyumri
+
+### Photographers
+- Cho Gi-Seok ([wesbite](http://chogiseok.com/))
+
+### Indie Game Developers
+- Rémy ([twitter](https://twitter.com/TRASEVOL_DOG))
+
+### Illustrators
+- Tim Peacock ([website](https://timpeacock.com/)]
