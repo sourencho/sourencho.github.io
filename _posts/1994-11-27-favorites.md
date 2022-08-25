@@ -67,6 +67,7 @@ List of favorites in no particular order.
 - Poloz Mukuch, Gyumri
 
 ### Photographers
+- Diana Markosian ([website](https://www.dianamarkosian.com/))
 - Cho Gi-Seok ([website](http://chogiseok.com/))
 
 ### Digital Art Developers 
