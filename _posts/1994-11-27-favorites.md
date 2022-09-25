@@ -17,6 +17,7 @@ List of favorites in no particular order.
 - On Earth We're Briefly Gorgeous
 - The Last Samurai
 - Stoner
+- Barbarian Days: A Surfing Life
 
 ### Games
 
