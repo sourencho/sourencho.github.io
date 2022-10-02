@@ -32,6 +32,7 @@ List of favorites in no particular order.
 - A Short Hike
 - The Witness
 - Elden Ring
+- Rocket League
 
 ### Movies
 
