@@ -49,6 +49,7 @@ List of favorites in no particular order.
 - Pulp Fiction
 - The Grand Budapest Hotel
 - Todo: Pick favorite Pixar movie
+- Ocean Waves
 
 ### TV Shows
 - Fleabag
@@ -73,10 +74,14 @@ List of favorites in no particular order.
 - Diana Markosian ([website](https://www.dianamarkosian.com/))
 - Cho Gi-Seok ([website](http://chogiseok.com/))
 
-### Digital Art Developers 
+### Digital Artists
 - Rémy ([website](https://trasevol-dog.itch.io/))
 - Saman Bemel Benrud ([website](https://trashmoon.com/))
 - Max Bittker ([website](https://maxbittker.com/))
 
 ### Illustrators
 - Tim Peacock ([website](https://timpeacock.com/))
+
+### Articles
+- [Challenges in Building a Decentralized Web
+](https://educatedguesswork.org/posts/challenges-web-decentralization/)
