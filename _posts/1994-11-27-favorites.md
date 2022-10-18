@@ -85,3 +85,7 @@ List of favorites in no particular order.
 ### Articles
 - [Challenges in Building a Decentralized Web
 ](https://educatedguesswork.org/posts/challenges-web-decentralization/)
+
+### People
+- Mama
+- Dudu
