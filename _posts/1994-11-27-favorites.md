@@ -69,6 +69,7 @@ List of favorites in no particular order.
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Poloz Mukuch, Gyumri
+- Batugami, Tokyo
 
 ### Photographers
 - Diana Markosian ([website](https://www.dianamarkosian.com/))
