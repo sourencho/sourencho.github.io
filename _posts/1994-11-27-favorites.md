@@ -70,6 +70,7 @@ List of favorites in no particular order.
 - Arsicault Bakery, San Francisco
 - Poloz Mukuch, Gyumri
 - Batugami, Tokyo
+- Mokonuts, Paris
 
 ### Photographers
 - Diana Markosian ([website](https://www.dianamarkosian.com/))
