@@ -71,6 +71,7 @@ List of favorites in no particular order.
 - Poloz Mukuch, Gyumri
 - Batugami, Tokyo
 - Mokonuts, Paris
+- Ntounias, Crete
 
 ### Photographers
 - Diana Markosian ([website](https://www.dianamarkosian.com/))
