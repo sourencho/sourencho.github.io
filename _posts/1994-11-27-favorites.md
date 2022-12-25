@@ -26,6 +26,7 @@ List of favorites in no particular order.
 - Age of Empires 2 & 4
 - Spelunkey 2
 - FEZ
+- Elechead
 - Terraria
 - Dyson Sphere Program
 - Factorio
@@ -33,6 +34,7 @@ List of favorites in no particular order.
 - The Witness
 - Elden Ring
 - Rocket League
+- Baba Is You
 
 ### Movies
 
@@ -71,19 +73,18 @@ List of favorites in no particular order.
 - Poloz Mukuch, Gyumri
 - Batugami, Tokyo
 - Mokonuts, Paris
-- Ntounias, Crete
 
 ### Photographers
-- Diana Markosian ([website](https://www.dianamarkosian.com/))
-- Cho Gi-Seok ([website](http://chogiseok.com/))
+- Diana Markosian
+- Cho Gi-Seok
 
-### Digital Artists
-- Rémy ([website](https://trasevol-dog.itch.io/))
-- Saman Bemel Benrud ([website](https://trashmoon.com/))
-- Max Bittker ([website](https://maxbittker.com/))
+### Digital Artist
+- Rémy Devaux
+- Saman Bemel Benrud
+- Max Bittker
 
 ### Illustrators
-- Tim Peacock ([website](https://timpeacock.com/))
+- Tim Peacock
 
 ### Articles
 - [Challenges in Building a Decentralized Web
