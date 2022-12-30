@@ -91,7 +91,3 @@ List of favorites in no particular order.
 ](https://educatedguesswork.org/posts/challenges-web-decentralization/)
 - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
-
-### People
-- Mama
-- Dudu
