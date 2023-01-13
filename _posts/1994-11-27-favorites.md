@@ -68,6 +68,7 @@ List of favorites in no particular order.
 ### Food
 - Pujol, Mexico City
 - Absolute Bagels, New York
+- Cervos, New York
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Poloz Mukuch, Gyumri
