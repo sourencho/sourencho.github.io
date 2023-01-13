@@ -74,6 +74,7 @@ List of favorites in no particular order.
 - Poloz Mukuch, Gyumri
 - Batugami, Tokyo
 - Mokonuts, Paris
+- Hamadeh (man'ousheh), Beirut
 
 ### Photographers
 - Diana Markosian
