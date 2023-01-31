@@ -80,10 +80,10 @@ List of favorites in no particular order.
 - Diana Markosian
 - Cho Gi-Seok
 
-### Digital Artist
+### Indie Game Devs
 - Rémy Devaux
+- Daniel Linssen
 - Saman Bemel Benrud
-- Max Bittker
 
 ### Illustrators
 - Tim Peacock
