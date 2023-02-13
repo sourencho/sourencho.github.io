@@ -75,6 +75,7 @@ List of favorites in no particular order.
 - Batugami, Tokyo
 - Mokonuts, Paris
 - Hamadeh (man'ousheh), Beirut
+- 無名米糕, Tainan
 
 ### Photographers
 - Diana Markosian
