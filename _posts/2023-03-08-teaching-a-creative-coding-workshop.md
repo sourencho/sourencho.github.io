@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Teaching a Creative Coding Workshop
-description: Teaching a Creative Coding Workshop
+title: Creative Coding Workshop
+description: Creative Coding Workshop
 comments: false
 ---
 
