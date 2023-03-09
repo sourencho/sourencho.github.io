@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creative Coding Workshop
-description: Creative Coding Workshop
+title: Teaching Creative Coding
+description: Teaching Creative Coding
 comments: false
 ---
 
@@ -11,7 +11,7 @@ I taught a creative coding workshop in February 2023. Below is a reflection on h
 
 The workshop was taught to twelve teens ages 12 to 19, over five days, for five hours each day.
 
-I was pretty happy with the results of the workshop! The students seemed to be improving day to day, most of them found the subject matter engaging and [the work they created](https://www.picoworkshop.xyz/notes/OurCreations/Our-Creations/) was amazing~
+I was pretty happy with the results! The students seemed to be improving day to day, most of them found the subject matter engaging and [the work they created](https://www.picoworkshop.xyz/notes/OurCreations/Our-Creations/) was amazing~
 
 #### What went well
 - Having all the material readily available on a [website](https://www.picoworkshop.xyz/)
