@@ -52,6 +52,7 @@ List of favorites in no particular order.
 - The Grand Budapest Hotel
 - Todo: Pick favorite Pixar movie
 - Ocean Waves
+- Honeyland
 
 ### TV Shows
 - Fleabag
