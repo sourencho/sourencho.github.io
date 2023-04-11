@@ -89,9 +89,7 @@ List of favorites in no particular order.
 
 ### Illustrators
 - Tim Peacock
+- David Huang
 
-### Articles
-- [Challenges in Building a Decentralized Web
-](https://educatedguesswork.org/posts/challenges-web-decentralization/)
-- [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
-- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+### Animators
+- Loek Vugs
