@@ -65,6 +65,7 @@ List of favorites in no particular order.
 - The Ping Pong Animation
 - Samurai Champloo
 - Mob Psycho 100
+- Last of Us
 
 ### Food
 - Pujol, Mexico City
@@ -91,7 +92,6 @@ List of favorites in no particular order.
 
 ### Illustrators
 - Tim Peacock
-- David Huang
 
 ### Animators
 - Loek Vugs
