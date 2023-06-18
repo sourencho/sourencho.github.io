@@ -53,6 +53,7 @@ List of favorites in no particular order.
 - Todo: Pick favorite Pixar movie
 - Ocean Waves
 - Honeyland
+- Spider-Man: Across the Spider-Verse
 
 ### TV Shows
 - Fleabag
