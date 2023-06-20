@@ -46,7 +46,6 @@ List of favorites in no particular order.
 - Lord of the Rings
 - Spirited Away
 - The Square
-- Parasite
 - Everything Everywhere All at Once
 - Pulp Fiction
 - The Grand Budapest Hotel
@@ -67,6 +66,7 @@ List of favorites in no particular order.
 - Samurai Champloo
 - Mob Psycho 100
 - Last of Us
+- Avatar: The Last Airbender
 
 ### Food
 - Pujol, Mexico City
