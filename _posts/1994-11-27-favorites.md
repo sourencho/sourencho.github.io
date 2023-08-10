@@ -69,6 +69,7 @@ List of favorites in no particular order.
 - Avatar: The Last Airbender
 
 ### Food
+- Տուն, Yerevan
 - Pujol, Mexico City
 - Absolute Bagels, New York
 - Cervos, New York
