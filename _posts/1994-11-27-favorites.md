@@ -81,6 +81,7 @@ List of favorites in no particular order.
 - Hamadeh (man'ousheh), Beirut
 - Tawlet, Beirut
 - 無名米糕, Tainan
+- Hiona Taverna, Crete
 
 ### Photographers
 - Diana Markosian
