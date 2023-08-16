@@ -35,6 +35,7 @@ List of favorites in no particular order.
 - Elden Ring
 - Rocket League
 - Baba Is You
+- The Legend of Zelda: Tears of the Kingdom
 
 ### Movies
 
