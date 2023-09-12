@@ -61,5 +61,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-google_analytics: G-NWPF0J9ET3
