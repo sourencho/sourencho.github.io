@@ -35,6 +35,7 @@ List of favorites in no particular order.
 - Elden Ring
 - Rocket League
 - Baba Is You
+- The Legend of Zelda: Tears of the Kingdom
 
 ### Movies
 
@@ -69,6 +70,7 @@ List of favorites in no particular order.
 - Avatar: The Last Airbender
 
 ### Food
+- Տուն, Yerevan
 - Pujol, Mexico City
 - Absolute Bagels, New York
 - Cervos, New York
@@ -81,6 +83,7 @@ List of favorites in no particular order.
 - Hamadeh (man'ousheh), Beirut
 - Tawlet, Beirut
 - 無名米糕, Tainan
+- Hiona Taverna, Crete
 
 ### Photographers
 - Diana Markosian
