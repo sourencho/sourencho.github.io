@@ -24,6 +24,8 @@ List of favorites in no particular order.
 
 - Dota 2
 - Age of Empires 2 & 4
+- Half Life
+- Counter Strike
 - Spelunkey 2
 - FEZ
 - Elechead
@@ -36,6 +38,7 @@ List of favorites in no particular order.
 - Rocket League
 - Baba Is You
 - The Legend of Zelda: Tears of the Kingdom
+- Cocoon
 
 ### Movies
 
@@ -46,14 +49,15 @@ List of favorites in no particular order.
 - Exit Through the Gift Shop
 - Lord of the Rings
 - Spirited Away
+- Ocean Waves
 - The Square
 - Everything Everywhere All at Once
 - Pulp Fiction
-- The Grand Budapest Hotel
-- Todo: Pick favorite Pixar movie
-- Ocean Waves
 - Honeyland
 - Spider-Man: Across the Spider-Verse
+- The Color of Pomegranates
+- Todo: Pick favorite Wes Anderson movie
+- Todo: Pick favorite Pixar movie
 
 ### TV Shows
 - Fleabag
@@ -92,7 +96,7 @@ List of favorites in no particular order.
 ### Indie Game Devs
 - Rémy Devaux
 - Daniel Linssen
-- Saman Bemel Benrud
+- Stuffed Wombat
 
 ### Illustrators
 - Tim Peacock
