@@ -11,6 +11,7 @@ If you think in one language and speak in another, things can get ծուռիկ-�
 
 Growing up in an Armenian speaking house in LA, my brothers and I would often say grammatically incorrect sentences that were direct translations of English thoughts. Sometimes these sentences would be so silly that they would be exchanged as jokes at family gatherings. *"What do you mean you lost your soccer game? Do you want me to look for it?"*. In the spirit of that humor, I collected a bunch of *dzoor*s from friends in the Armenian diaspora on an [instagram page](https://www.instagram.com/dzoooor/).
 
+Edit: someone informed me these are called [calques](https://en.wikipedia.org/wiki/Calque).
 
 <br>
 
