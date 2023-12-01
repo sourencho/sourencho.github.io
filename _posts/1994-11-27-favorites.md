@@ -112,6 +112,7 @@ List of favorites in no particular order.
 ### Visual Artists
 - Tim Peacock
 - David Huang
+- Natalie Andrewson
 - Alba BG
 - Sarah Oh
 - Loek Vugs
