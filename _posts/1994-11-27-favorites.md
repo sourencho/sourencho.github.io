@@ -40,6 +40,12 @@ List of favorites in no particular order.
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
 
+### Board Games
+- Puerto Rico
+- Brass: Birmingham
+- Sign: A Game about Being Understood
+- Oceans
+
 ### Movies
 
 - Yi Yi
@@ -94,12 +100,18 @@ List of favorites in no particular order.
 - Cho Gi-Seok
 
 ### Indie Game Devs
+- lexloffle
 - Rémy Devaux
 - Daniel Linssen
+- Benjamin Soule
 - Stuffed Wombat
+- Oskar Stålberg
+- Mrmo Tarius
 
-### Illustrators
+### Visual Artists
 - Tim Peacock
-
-### Animators
+- David Huang
+- Alba BG
+- Sarah Oh
 - Loek Vugs
+- Prime Materia
