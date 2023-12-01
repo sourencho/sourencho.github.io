@@ -62,8 +62,9 @@ List of favorites in no particular order.
 - Honeyland
 - Spider-Man: Across the Spider-Verse
 - The Color of Pomegranates
+- The Incredibles
 - Todo: Pick favorite Wes Anderson movie
-- Todo: Pick favorite Pixar movie
+
 
 ### TV Shows
 - Fleabag
