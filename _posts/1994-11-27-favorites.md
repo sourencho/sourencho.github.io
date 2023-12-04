@@ -72,13 +72,20 @@ List of favorites in no particular order.
 - Arcane
 - Firefly
 - Twin Peaks
+- The Office
 - Fullmetal Alchemist: Brotherhood
 - Hunter x Hunter
 - The Ping Pong Animation
 - Samurai Champloo
+- Cowboy Bebop
 - Mob Psycho 100
 - Last of Us
 - Avatar: The Last Airbender
+- Planet Earth and Our Planet
+- Chef's Table
+- Scavenger's Reign
+- Breaking Bad
+- Over the Garden Wall
 
 ### Food
 - Տուն, Yerevan
