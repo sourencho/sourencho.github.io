@@ -64,6 +64,7 @@ List of favorites in no particular order.
 - The Color of Pomegranates
 - The Incredibles
 - Todo: Pick favorite Wes Anderson movie
+- The Matrix
 
 
 ### TV Shows
