@@ -124,3 +124,4 @@ List of favorites in no particular order.
 - Sarah Oh
 - Loek Vugs
 - Prime Materia
+- Nikita Diakur
