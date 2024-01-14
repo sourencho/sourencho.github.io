@@ -39,6 +39,7 @@ List of favorites in no particular order.
 - Baba Is You
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
+- Plate Up
 
 ### Board Games
 - Puerto Rico
