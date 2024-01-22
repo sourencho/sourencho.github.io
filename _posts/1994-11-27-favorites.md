@@ -67,7 +67,6 @@ List of favorites in no particular order.
 - Todo: Pick favorite Wes Anderson movie
 - The Matrix
 
-
 ### TV Shows
 - Fleabag
 - The Wire
@@ -88,21 +87,6 @@ List of favorites in no particular order.
 - Scavenger's Reign
 - Breaking Bad
 - Over the Garden Wall
-
-### Food
-- Տուն, Yerevan
-- Pujol, Mexico City
-- Absolute Bagels, New York
-- Cervos, New York
-- Eyval, New York
-- La Palma, San Francisco
-- Arsicault Bakery, San Francisco
-- Poloz Mukuch, Gyumri
-- Batugami, Tokyo
-- Mokonuts, Paris
-- Hamadeh (man'ousheh), Beirut
-- Tawlet, Beirut
-- Hiona Taverna, Crete
 
 ### Indie Game Devs
 - lexloffle
@@ -127,3 +111,19 @@ List of favorites in no particular order.
 - Diana Markosian
 - Cho Gi-Seok
 - Rachael Talibart
+
+### Food
+- Տուն, Yerevan
+- Pujol, Mexico City
+- Absolute Bagels, New York
+- Cervos, New York
+- Eyval, New York
+- La Palma, San Francisco
+- Arsicault Bakery, San Francisco
+- Ju-Ni, San Francisco
+- Poloz Mukuch, Gyumri
+- Batugami, Tokyo
+- Mokonuts, Paris
+- Hamadeh (man'ousheh), Beirut
+- Tawlet, Beirut
+- Hiona Taverna, Crete
