@@ -104,10 +104,6 @@ List of favorites in no particular order.
 - Tawlet, Beirut
 - Hiona Taverna, Crete
 
-### Photographers
-- Diana Markosian
-- Cho Gi-Seok
-
 ### Indie Game Devs
 - lexloffle
 - Rémy Devaux
@@ -126,3 +122,8 @@ List of favorites in no particular order.
 - Loek Vugs
 - Prime Materia
 - Nikita Diakur
+
+### Photographers
+- Diana Markosian
+- Cho Gi-Seok
+- Rachael Talibart
