@@ -11,10 +11,10 @@ I taught a creative coding workshop in February 2023. Below is a reflection on h
 
 The workshop was taught to twelve teens ages 12 to 19, over five days, for five hours each day.
 ()],
-I was pretty happy with the results! The students seemed to be improving day to day, most of them found the subject matter engaging and [the work they created](https://www.sourencho.com/picoworkshop/notes/OurCreations/Our-Creations/) was amazing~
+I was pretty happy with the results! The students seemed to be improving day to day, most of them found the subject matter engaging and [the work they created](https://www.sourencho.com/picoworkshop/notes/OurCreations/Our-Creations) was amazing~
 
 #### What went well
-- Having all the material readily available on a [website](https://www.sourencho.com/picoworkshop/)
+- Having all the material readily available on a [website](https://www.sourencho.com/picoworkshop)
     - I taught new topics via live demos and verbal explanations but I also had equivalent written tutorials on the workshop website. The students would use the tutorials in the latter half of the workshop to fill in gaps, copy-paste code and find additional materials.
 	- The website also allowed advanced students to move ahead at their own pace.
     <br> <br>
