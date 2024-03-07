@@ -40,6 +40,7 @@ List of favorites in no particular order.
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
 - Plate Up
+- Dredge
 
 ### Board Games
 - Puerto Rico
