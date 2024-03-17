@@ -26,6 +26,7 @@ List of favorites in no particular order.
 - Age of Empires 2 & 4
 - Half Life
 - Counter Strike
+- World of Warcraft
 - Spelunkey 2
 - FEZ
 - Elechead
@@ -40,7 +41,6 @@ List of favorites in no particular order.
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
 - Plate Up
-- Dredge
 
 ### Board Games
 - Puerto Rico
@@ -68,6 +68,7 @@ List of favorites in no particular order.
 - Todo: Pick favorite Wes Anderson movie
 - The Matrix
 
+
 ### TV Shows
 - Fleabag
 - The Wire
@@ -89,6 +90,26 @@ List of favorites in no particular order.
 - Breaking Bad
 - Over the Garden Wall
 
+### Food
+- Տուն, Yerevan
+- Pujol, Mexico City
+- Absolute Bagels, New York
+- Cervos, New York
+- Eyval, New York
+- La Palma, San Francisco
+- Arsicault Bakery, San Francisco
+- Poloz Mukuch, Gyumri
+- Batugami, Tokyo
+- Mokonuts, Paris
+- Hamadeh (man'ousheh), Beirut
+- Tawlet, Beirut
+- Hiona Taverna, Crete
+
+### Photographers
+- Diana Markosian
+- Cho Gi-Seok
+- 
+
 ### Indie Game Devs
 - lexloffle
 - Rémy Devaux
@@ -107,24 +128,3 @@ List of favorites in no particular order.
 - Loek Vugs
 - Prime Materia
 - Nikita Diakur
-
-### Photographers
-- Diana Markosian
-- Cho Gi-Seok
-- Rachael Talibart
-
-### Food
-- Տուն, Yerevan
-- Pujol, Mexico City
-- Absolute Bagels, New York
-- Cervos, New York
-- Eyval, New York
-- La Palma, San Francisco
-- Arsicault Bakery, San Francisco
-- Ju-Ni, San Francisco
-- Poloz Mukuch, Gyumri
-- Batugami, Tokyo
-- Mokonuts, Paris
-- Hamadeh (man'ousheh), Beirut
-- Tawlet, Beirut
-- Hiona Taverna, Crete
