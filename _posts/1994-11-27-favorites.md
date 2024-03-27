@@ -44,6 +44,7 @@ List of favorites in no particular order.
 - Dredge
 - Inside
 - World of Goo
+- Balatro
 
 ### Board Games
 - Puerto Rico
