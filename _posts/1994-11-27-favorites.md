@@ -45,7 +45,6 @@ List of favorites in no particular order.
 - Cocoon
 - Plate Up
 - Dredge
-- Inside
 - World of Goo
 - Balatro
 
