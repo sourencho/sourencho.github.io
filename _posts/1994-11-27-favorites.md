@@ -26,6 +26,7 @@ List of favorites in no particular order.
 - Age of Empires 2 & 4
 - Half Life
 - Halo
+- Portal
 - Counter Strike
 - World of Warcraft
 - Spelunkey 2
