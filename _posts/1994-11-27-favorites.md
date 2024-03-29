@@ -28,6 +28,7 @@ List of favorites in no particular order.
 - Halo
 - Portal
 - Counter Strike
+- Warcraft II
 - World of Warcraft
 - Spelunkey 2
 - FEZ
