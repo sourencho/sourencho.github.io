@@ -25,6 +25,7 @@ List of favorites in no particular order.
 - Dota 2
 - Age of Empires 2 & 4
 - Half Life
+- Halo
 - Counter Strike
 - World of Warcraft
 - Spelunkey 2
