@@ -134,3 +134,4 @@ List of favorites in no particular order.
 - Loek Vugs
 - Prime Materia
 - Nikita Diakur
+- Quayola
