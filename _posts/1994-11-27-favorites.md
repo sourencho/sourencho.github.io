@@ -47,6 +47,7 @@ List of favorites in no particular order.
 - Dredge
 - World of Goo
 - Balatro
+- Mini Motorways
 
 ### Board Games
 - Puerto Rico
@@ -73,6 +74,7 @@ List of favorites in no particular order.
 - The Incredibles
 - Todo: Pick favorite Wes Anderson movie
 - The Matrix
+- The Night is Short: Walk on Girl
 
 
 ### TV Shows
