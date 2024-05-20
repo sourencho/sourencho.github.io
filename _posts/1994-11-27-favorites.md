@@ -48,6 +48,7 @@ List of favorites in no particular order.
 - World of Goo
 - Balatro
 - Mini Motorways
+- Animal Well
 
 ### Board Games
 - Puerto Rico
