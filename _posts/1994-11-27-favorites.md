@@ -76,6 +76,7 @@ List of favorites in no particular order.
 - Todo: Pick favorite Wes Anderson movie
 - The Matrix
 - The Night is Short: Walk on Girl
+- Best in Show
 
 
 ### TV Shows
