@@ -128,6 +128,7 @@ List of favorites in no particular order.
 - Stuffed Wombat
 - Oskar Stålberg
 - Mrmo Tarius
+- Eran Hilleli
 
 ### Visual Artists
 - Tim Peacock
