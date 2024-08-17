@@ -118,7 +118,7 @@ List of favorites in no particular order.
 ### Photographers
 - Diana Markosian
 - Cho Gi-Seok
-- 
+- Rachael Talibart
 
 ### Indie Game Devs
 - lexloffle
