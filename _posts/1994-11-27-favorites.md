@@ -55,6 +55,7 @@ List of favorites in no particular order.
 - Brass: Birmingham
 - Sign: A Game about Being Understood
 - Oceans
+- Hegemony
 
 ### Movies
 
@@ -80,6 +81,7 @@ List of favorites in no particular order.
 
 
 ### TV Shows
+- Simpsons
 - Fleabag
 - The Wire
 - Arcane
