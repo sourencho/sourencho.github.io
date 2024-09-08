@@ -140,3 +140,7 @@ List of favorites in no particular order.
 - Prime Materia
 - Nikita Diakur
 - Quayola
+
+### Smells
+- Onion and butter
+- Wet forest
