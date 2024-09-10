@@ -129,6 +129,7 @@ List of favorites in no particular order.
 - Oskar Stålberg
 - Mrmo Tarius
 - Eran Hilleli
+- The Water Museum
 
 ### Visual Artists
 - Tim Peacock
@@ -141,6 +142,11 @@ List of favorites in no particular order.
 - Nikita Diakur
 - Quayola
 
+### Digital Tools
+- git
+- Obsidian
+
 ### Smells
 - Onion and butter
 - Wet forest
+- Jasmine 
