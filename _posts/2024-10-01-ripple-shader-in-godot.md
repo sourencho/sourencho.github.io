@@ -5,12 +5,12 @@ description: Ripple Shader in Godot
 comments: false
 ---
 
-<video width="100%" autoplay loop>
+<video width="100%" autoplay loop preload="auto" controls>
   <source src="/assets/images/posts/ripple_shader/ripple.mov" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-I wanted to experiment with glsl and godot, so I messed around for a week or two making a ripple effect inspired by the macOS [Drift](https://youtu.be/BcrhRHD05ZA?si=Zm2MBIe0LPneRjI_) screensaver.
+I wanted to play with glsl and godot, so I experimented with making ripple effect inspired by the macOS [Drift](https://youtu.be/BcrhRHD05ZA?si=Zm2MBIe0LPneRjI_) screensaver.
 
 <small> Each line is drawn with a shader </small>
 
