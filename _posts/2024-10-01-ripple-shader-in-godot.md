@@ -10,7 +10,7 @@ comments: false
 Your browser does not support the video tag.
 </video>
 
-I wanted to play with glsl and godot, so I experimented with making ripple effect inspired by the macOS [Drift](https://youtu.be/BcrhRHD05ZA?si=Zm2MBIe0LPneRjI_) screensaver.
+I wanted to play with glsl and godot, so I experimented with making a ripple effect inspired by the macOS [Drift](https://youtu.be/BcrhRHD05ZA?si=Zm2MBIe0LPneRjI_) screensaver.
 
 <small> Each line is drawn with a shader </small>
 
