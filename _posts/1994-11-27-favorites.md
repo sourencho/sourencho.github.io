@@ -48,12 +48,14 @@ List of favorites in no particular order.
 - World of Goo
 - Balatro
 - Mini Motorways
+- Animal Well
 
 ### Board Games
 - Puerto Rico
 - Brass: Birmingham
 - Sign: A Game about Being Understood
 - Oceans
+- Hegemony
 
 ### Movies
 
@@ -75,9 +77,11 @@ List of favorites in no particular order.
 - Todo: Pick favorite Wes Anderson movie
 - The Matrix
 - The Night is Short: Walk on Girl
+- Best in Show
 
 
 ### TV Shows
+- Simpsons
 - Fleabag
 - The Wire
 - Arcane
@@ -102,11 +106,9 @@ List of favorites in no particular order.
 - Տուն, Yerevan
 - Pujol, Mexico City
 - Absolute Bagels, New York
-- Cervos, New York
-- Eyval, New York
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
-- Poloz Mukuch, Gyumri
+- Tsaghkunk, Armenia
 - Batugami, Tokyo
 - Mokonuts, Paris
 - Hamadeh (man'ousheh), Beirut
@@ -116,7 +118,7 @@ List of favorites in no particular order.
 ### Photographers
 - Diana Markosian
 - Cho Gi-Seok
-- 
+- Rachael Talibart
 
 ### Indie Game Devs
 - lexloffle
@@ -126,6 +128,8 @@ List of favorites in no particular order.
 - Stuffed Wombat
 - Oskar Stålberg
 - Mrmo Tarius
+- Eran Hilleli
+- The Water Museum
 
 ### Visual Artists
 - Tim Peacock
@@ -137,3 +141,12 @@ List of favorites in no particular order.
 - Prime Materia
 - Nikita Diakur
 - Quayola
+
+### Digital Tools
+- git
+- Obsidian
+
+### Smells
+- Onion and butter
+- Wet forest
+- Jasmine 
