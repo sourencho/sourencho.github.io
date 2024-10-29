@@ -49,6 +49,7 @@ List of favorites in no particular order.
 - Balatro
 - Mini Motorways
 - Animal Well
+- Deadlock
 
 ### Board Games
 - Puerto Rico
@@ -120,6 +121,7 @@ List of favorites in no particular order.
 - Diana Markosian
 - Cho Gi-Seok
 - Rachael Talibart
+- Alex Bruke
 
 ### Indie Game Devs
 - lexloffle
@@ -147,7 +149,3 @@ List of favorites in no particular order.
 - git
 - Obsidian
 
-### Smells
-- Onion and butter
-- Wet forest
-- Jasmine 
