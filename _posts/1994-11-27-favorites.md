@@ -103,6 +103,7 @@ List of favorites in no particular order.
 - Scavenger's Reign
 - Breaking Bad
 - Over the Garden Wall
+- Freaks and Geeks
 
 ### Food
 - Տուն, Yerevan
