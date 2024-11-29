@@ -31,7 +31,7 @@ List of favorites in no particular order.
 - **Halo**
 - **Baba Is You**
 - **Animal Well**
-- **Warcraft II*
+- **Warcraft II**
 - **World of Warcraft**
 - Portal
 - Spelunkey 2
