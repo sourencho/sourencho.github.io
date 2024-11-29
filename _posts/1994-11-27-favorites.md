@@ -22,12 +22,12 @@ List of favorites in no particular order.
 
 ### Games
 
-- Dota 2
-- Age of Empires 2 & 4
+- **Dota 2**
+- **Age of Empires**
 - Half Life
 - Halo
 - Portal
-- Counter Strike
+- **Counter Strike**
 - Warcraft II
 - World of Warcraft
 - Spelunkey 2
@@ -35,12 +35,12 @@ List of favorites in no particular order.
 - Elechead
 - Terraria
 - Dyson Sphere Program
-- Factorio
+- **Factorio**
 - A Short Hike
-- The Witness
+- **The Witness**
 - Elden Ring
 - Rocket League
-- Baba Is You
+- **Baba Is You**
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
 - Plate Up
@@ -48,7 +48,7 @@ List of favorites in no particular order.
 - World of Goo
 - Balatro
 - Mini Motorways
-- Animal Well
+- **Animal Well**
 - Deadlock
 
 ### Board Games
