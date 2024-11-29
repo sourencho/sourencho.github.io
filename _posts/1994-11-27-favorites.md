@@ -24,23 +24,24 @@ List of favorites in no particular order.
 
 - **Dota 2**
 - **Age of Empires**
-- Half Life
-- Halo
-- Portal
 - **Counter Strike**
-- Warcraft II
-- World of Warcraft
+- **Factorio**
+- **The Witness**
+- **Half Life**
+- **Halo**
+- **Baba Is You**
+- **Animal Well**
+- **Warcraft II*
+- **World of Warcraft**
+- Portal
 - Spelunkey 2
 - FEZ
 - Elechead
 - Terraria
 - Dyson Sphere Program
-- **Factorio**
 - A Short Hike
-- **The Witness**
 - Elden Ring
 - Rocket League
-- **Baba Is You**
 - The Legend of Zelda: Tears of the Kingdom
 - Cocoon
 - Plate Up
@@ -48,7 +49,6 @@ List of favorites in no particular order.
 - World of Goo
 - Balatro
 - Mini Motorways
-- **Animal Well**
 - Deadlock
 
 ### Board Games
