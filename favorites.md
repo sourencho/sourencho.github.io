@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 title: Favorites
-description: Lists of my favorite stuff
-summary: Lists of my favorite stuff
-comments: false
+permalink: /favorites
 ---
 
 List of favorites in no particular order.
