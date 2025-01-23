@@ -144,6 +144,9 @@ List of favorites in no particular order.
 - Prime Materia
 - Nikita Diakur
 - Quayola
+- Kowa Powa
+- 服部グラフィクス (Hattori2000)
+- Scott Higginbotham
 
 ### Digital Tools
 - git
