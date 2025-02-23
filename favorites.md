@@ -46,9 +46,13 @@ List of favorites in no particular order.
 - Plate Up
 - Dredge
 - World of Goo
-- Balatro
-- Mini Motorways
 - Deadlock
+
+#### Mobile
+- Isle of Arrows
+- Dicey Dungeons
+- Mini Motorways
+- Balatro
 
 ### Board Games
 - Puerto Rico
