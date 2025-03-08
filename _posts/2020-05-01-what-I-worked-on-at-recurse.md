@@ -20,55 +20,38 @@ During my batch and a half which lasted 4.5 months I studied and worked on these
 
 <br>
 
-# Game Development
 
-### Games
+**Game Dev**
 
 - Worked on the networking and shaders of [ungroup](https://github.com/sourencho/ungroup_game) (a multiplayer game with a custom engine). Pairing with friends helped a lot.
 <br>
-
 - Organized a game jam and made the first version of [mimic](https://sourencho.itch.io/mimic) with a friend.
 <br>
-
 - Worked a bit with a friend on their open-world unity game where you can freely talk to NPCs using a language system.
 <br>
-
-- Started a Game Dev Interest Group at RC with a friend which I still attend a year and a half later!
+- Worked through [many](https://github.com/sourencho/catlike_coding_unity) of the [Catlike Coding](https://catlikecoding.com/unity/tutorials/) tutorials to gain a better understanding of Unity.
+- Started a Game Dev Interest Group at RC with a friend, which is still going many years later!
 
 <br>
 
-### Graphics
+**Graphics**
 
 - Wrote [a rasterizer](https://github.com/sourencho/rogue_rasterizer) from scratch with a friend using the [Scratchapixel tutorial](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation).
-<br>
-
 - Made [an environment](https://github.com/sourencho/jaragayt) to implement solutions to 3D math problems in opengl for practice using [learnopengl.com](https://learnopengl.com/).
-<br>
-
 - Read through some of [The Book of Shaders](https://thebookofshaders.com/).
-<br>
 
 - Attending a raymarching workshop and implemented [marching in PICO-8](https://github.com/sourencho/pico-march).
 <br>
 
 
-
 <br>
 
-### Math
+**Math**
 - Read through almost all of [3D math primer for graphics and game development](https://g.co/kgs/AcMG8g) and worked on the problems.
 
 <br>
 
-### Unity
-
-- Worked through [many](https://github.com/sourencho/catlike_coding_unity) of the [Catlike Coding](https://catlikecoding.com/unity/tutorials/) tutorials to gain a better understanding of Unity.
-
-<br>
-
-# Creative Coding
-
-### Livecoding
+**Livecoding**
 
 - Created a [livecoding environment](https://github.com/sourencho/jrots) in atom using [hydra](https://github.com/ojack/hydra) and [p5](https://p5js.org/) that produces typographic visuals from midi input.
 <br>
@@ -78,14 +61,17 @@ During my batch and a half which lasted 4.5 months I studied and worked on these
 
 <br>
 
-# Images
+**Images**
 
-<p align="center">
-    <img width=320px height=320px src="/assets/images/mimic.gif">
-    <img width=320px height=320px src="/assets/images/rasterizer.gif">
-    <img width=320px height=320px src="/assets/images/picomarch.gif">
-    <img src="/assets/images/jrots.png">
-</p>
+*Game Dev*<br>
+<img width=320px height=320px src="/assets/images/mimic.gif">
+
+*Graphics*<br>
+<img width=320px height=320px src="/assets/images/rasterizer.gif">
+
+*Graphics*<br>
+<img width=320px height=320px src="/assets/images/picomarch.gif">
+<img src="/assets/images/jrots.png">
 
 <br>
 <hr>
