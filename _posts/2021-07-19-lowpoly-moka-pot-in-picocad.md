@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lowpoly Moka Pot in PicoCAD
+title: Lowpoly Moka Pot
 description: First PicoCAD model
 summary: First PicoCAD model
 comments: false

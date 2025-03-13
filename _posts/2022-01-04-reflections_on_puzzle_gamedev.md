@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections on puzzle gamedev
+title: Puzzle Gamedev Retro
 description: Mimic PICO-8
 Summary: Mimic PICO-8
 comments: false
