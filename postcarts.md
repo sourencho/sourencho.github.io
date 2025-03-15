@@ -139,6 +139,6 @@ c*=k p=2.293for i=0,c do t=p*i y=1-(i/c*2) r=sqrt(1-y*y) x=cos(t)*r z=sin(t)*r c
 
 Sources I've learned from:
 - [2DArray's tweets](https://x.com/2darray)
-- [https://demobasics.pixienop.net/tweetcarts/](https://demobasics.pixienop.net/tweetcarts/)
-- [https://rexcellentgames.com/minifying-tweetcarts/](https://rexcellentgames.com/minifying-tweetcarts/)
-- [https://demoman.net/?a=optimizing-for-tweetcarts](https://demoman.net/?a=optimizing-for-tweetcarts)
+- [Pico-8 Tweetcart Studies](https://demobasics.pixienop.net/tweetcarts/)
+- [Guide on minifying tweetcarts](https://rexcellentgames.com/minifying-tweetcarts/)
+- [Optimizing Character-Count for Tweetcarts](https://demoman.net/?a=optimizing-for-tweetcarts)
