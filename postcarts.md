@@ -6,6 +6,8 @@ permalink: /postcarts
 
 [Postcarts](https://www.lexaloffle.com/bbs/superblog.php?mode=gifs&postcarts=1) are tiny programs (300 chars or less) made with [pico-8](https://www.lexaloffle.com/pico-8.php) that procedurally draw cool visuals.
 
+<br>
+
 **[Hairy](https://www.lexaloffle.com/bbs/?pid=158754#p)**
 
 <img src="/assets/images/postcarts/hairy.gif" alt="hairy" width="384"/>
@@ -87,7 +89,7 @@ goto _
 
 <br>
 
-**[Starfish]()**
+**Starfish**
 
 <img src="/assets/images/postcarts/starfish.gif" alt="starfish" width="384"/>
 <img src="/assets/images/postcarts/sando.gif" alt="sando" width="384"/>
@@ -118,7 +120,7 @@ goto _
 
 <br>
 
-**[Ornament]()**
+**Ornament**
 
 <img src="/assets/images/postcarts/ornament.gif" alt="ornament" width="384"/>
 <img src="/assets/images/postcarts/ornament2.gif" alt="ornament2" width="384"/>
