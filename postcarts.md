@@ -4,8 +4,9 @@ title: Postcarts
 permalink: /postcarts
 ---
 
-[Postcarts](https://www.lexaloffle.com/bbs/superblog.php?mode=gifs&postcarts=1) are tiny programs (300 chars or less) made with [pico-8](https://www.lexaloffle.com/pico-8.php) that procedurally draw cool visuals.
+[Postcarts](https://www.lexaloffle.com/bbs/superblog.php?mode=gifs&postcarts=1) are tiny programs (300 chars or less) made with [pico-8](https://www.lexaloffle.com/pico-8.php).
 
+Below are some I've made over the years. It's fun learning how to draw within these limitations.
 <br>
 
 **[Hairy](https://www.lexaloffle.com/bbs/?pid=158754#p)**
@@ -136,4 +137,8 @@ c*=k p=2.293for i=0,c do t=p*i y=1-(i/c*2) r=sqrt(1-y*y) x=cos(t)*r z=sin(t)*r c
 
 --
 
-_Thanks to @2DArray for his tutorials and tweets_
+Sources I've learned from:
+- [2DArray's tweets](https://x.com/2darray)
+- [https://demobasics.pixienop.net/tweetcarts/](https://demobasics.pixienop.net/tweetcarts/)
+- [https://rexcellentgames.com/minifying-tweetcarts/](https://rexcellentgames.com/minifying-tweetcarts/)
+- [https://demoman.net/?a=optimizing-for-tweetcarts](https://demoman.net/?a=optimizing-for-tweetcarts)
