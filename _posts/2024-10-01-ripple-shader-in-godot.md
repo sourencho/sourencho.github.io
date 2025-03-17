@@ -26,8 +26,3 @@ Roughly, the high level steps were:
 - Pass in noise and sample based on time to get scrolling effect
 - Pass in position of each mesh to know where to sample the noise
 - Offset segment angles, thickness and color based on noise value
-
-<br>
-
-
-

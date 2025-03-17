@@ -95,7 +95,7 @@ goto _
 <img src="/assets/images/postcarts/starfish.gif" alt="starfish" width="384"/>
 <img src="/assets/images/postcarts/sando.gif" alt="sando" width="384"/>
 
-_first image_
+<small> _first image_ </small>
 ```
 _set_fps(60)
 poke(0x5f2c,5)
@@ -126,7 +126,7 @@ goto _
 <img src="/assets/images/postcarts/ornament.gif" alt="ornament" width="384"/>
 <img src="/assets/images/postcarts/ornament2.gif" alt="ornament2" width="384"/>
 
-_first image_
+<small> _first image_ </small>
 ```
 ?"\^!5f100▒1😐<67⌂⬅️3⬇️"
 c=3l=0::_::cls()k=c<250 and 1.01 or 1.001
@@ -142,3 +142,5 @@ Sources I've learned from:
 - [Pico-8 Tweetcart Studies](https://demobasics.pixienop.net/tweetcarts/)
 - [Guide on minifying tweetcarts](https://rexcellentgames.com/minifying-tweetcarts/)
 - [Optimizing Character-Count for Tweetcarts](https://demoman.net/?a=optimizing-for-tweetcarts)
+
+Also, check out my creative coding in pico8 [tutorials](https://www.sourencho.com/picoworkshop/)!
