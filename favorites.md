@@ -47,6 +47,7 @@ List of favorites in no particular order.
 - Dredge
 - World of Goo
 - Deadlock
+- Blue Prince
 
 #### Mobile
 - Isle of Arrows
@@ -151,6 +152,7 @@ List of favorites in no particular order.
 - Kowa Powa
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
+- Alariko
 
 ### Digital Tools
 - git
