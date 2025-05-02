@@ -153,8 +153,4 @@ List of favorites in no particular order.
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
 - Alariko
-
-### Digital Tools
-- git
-- Obsidian
-
+m
