@@ -84,6 +84,7 @@ List of favorites in no particular order.
 - The Night is Short: Walk on Girl
 - Best in Show
 - My Neighbors the Yamadas
+- Eat Drink Man Woman
 
 
 ### TV Shows
