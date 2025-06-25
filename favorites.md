@@ -54,6 +54,7 @@ List of favorites in no particular order.
 - Dicey Dungeons
 - Mini Motorways
 - Balatro
+- Daily Akari (web)
 
 ### Board Games
 - Puerto Rico
@@ -109,6 +110,7 @@ List of favorites in no particular order.
 - Breaking Bad
 - Over the Garden Wall
 - Freaks and Geeks
+- Common Side effects
 
 ### Food
 - Տուն, Yerevan
@@ -117,7 +119,6 @@ List of favorites in no particular order.
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Tsaghkunk, Armenia
-- Batugami, Tokyo
 - Mokonuts, Paris
 - Hamadeh (man'ousheh), Beirut
 - Tawlet, Beirut
@@ -154,4 +155,4 @@ List of favorites in no particular order.
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
 - Alariko
-m
+
