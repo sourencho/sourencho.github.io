@@ -6,7 +6,7 @@ permalink: /prototypes
 
 An archive of prototypes that didn't become full games.
 
-### Clock Game
+### Clock Game (2023)
 
 Time advances for entities when they're hit by the clock hand.
 
@@ -21,8 +21,9 @@ Another feature was that the player would change age if it hit the clock hand. K
 
 <img src="/assets/images/prototypes/clock_demo_2.gif" alt="clock_2" width="384"/>
 
+Edit in 2025: We actually ended up making a jam game called [Tiny Time](https://dorodo.itch.io/tiny-time) related to this idea!
 
-### Cauldron Game
+### Cauldron Game (2022)
 
 Craft hats that modify your attack by combining enemy remains in a cauldron.
 
