@@ -47,12 +47,14 @@ List of favorites in no particular order.
 - Dredge
 - World of Goo
 - Deadlock
+- Blue Prince
 
 #### Mobile
 - Isle of Arrows
 - Dicey Dungeons
 - Mini Motorways
 - Balatro
+- Daily Akari (web)
 
 ### Board Games
 - Puerto Rico
@@ -83,6 +85,7 @@ List of favorites in no particular order.
 - The Night is Short: Walk on Girl
 - Best in Show
 - My Neighbors the Yamadas
+- Eat Drink Man Woman
 
 
 ### TV Shows
@@ -107,6 +110,7 @@ List of favorites in no particular order.
 - Breaking Bad
 - Over the Garden Wall
 - Freaks and Geeks
+- Common Side effects
 
 ### Food
 - Տուն, Yerevan
@@ -115,7 +119,6 @@ List of favorites in no particular order.
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Tsaghkunk, Armenia
-- Batugami, Tokyo
 - Mokonuts, Paris
 - Hamadeh (man'ousheh), Beirut
 - Tawlet, Beirut
@@ -151,8 +154,5 @@ List of favorites in no particular order.
 - Kowa Powa
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
-
-### Digital Tools
-- git
-- Obsidian
+- Alariko
 
