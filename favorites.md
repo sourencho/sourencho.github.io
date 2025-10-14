@@ -49,6 +49,7 @@ List of favorites in no particular order.
 - World of Goo
 - Deadlock
 - Blue Prince
+- Silksong
 
 #### Mobile
 - Isle of Arrows
