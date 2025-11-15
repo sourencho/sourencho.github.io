@@ -22,17 +22,17 @@ List of favorites in no particular order.
 
 ### Games
 
-- **Dota 2**
-- **Age of Empires**
-- **Counter Strike**
-- **Factorio**
-- **The Witness**
-- **Half Life**
-- **Halo**
-- **Baba Is You**
-- **Animal Well**
-- **Warcraft II**
-- **World of Warcraft**
+- Dota 2
+- Age of Empires
+- Counter Strike
+- Factorio
+- The Witness
+- Half Life
+- Halo
+- Baba Is You
+- Animal Well
+- Warcraft II
+- World of Warcraft
 - Portal
 - Spelunkey 2
 - FEZ
@@ -118,7 +118,7 @@ List of favorites in no particular order.
 ### Food
 - Տուն, Yerevan
 - Pujol, Mexico City
-- Absolute Bagels, New York
+- Absolute Bagels, New York (rip)
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Tsaghkunk, Armenia
@@ -159,3 +159,6 @@ List of favorites in no particular order.
 - Scott Higginbotham
 - Alariko
 
+### Artists
+- Do Ho Suh
+- Tom Visser
