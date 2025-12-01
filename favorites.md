@@ -50,6 +50,7 @@ List of favorites in no particular order.
 - Deadlock
 - Blue Prince
 - Silksong
+- Arc Raiders
 
 #### Mobile
 - Isle of Arrows
