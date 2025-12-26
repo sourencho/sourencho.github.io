@@ -160,6 +160,7 @@ List of favorites in no particular order.
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
 - Alariko
+- Taiyō Matsumoto
 
 ### Artists
 - Do Ho Suh
