@@ -161,6 +161,7 @@ List of favorites in no particular order.
 - Scott Higginbotham
 - Alariko
 - Taiyō Matsumoto
+- Wilfrid Wood
 
 ### Artists
 - Do Ho Suh
