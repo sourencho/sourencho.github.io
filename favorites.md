@@ -18,20 +18,21 @@ List of favorites in no particular order.
 - Barbarian Days: A Surfing Life
 - Tomorrow, and Tomorrow, and Tomorrow
 - Overstory
+- Martyr!
 
 ### Games
 
-- **Dota 2**
-- **Age of Empires**
-- **Counter Strike**
-- **Factorio**
-- **The Witness**
-- **Half Life**
-- **Halo**
-- **Baba Is You**
-- **Animal Well**
-- **Warcraft II**
-- **World of Warcraft**
+- Dota 2
+- Age of Empires
+- Counter Strike
+- Factorio
+- The Witness
+- Half Life
+- Halo
+- Baba Is You
+- Animal Well
+- Warcraft II
+- World of Warcraft
 - Portal
 - Spelunkey 2
 - FEZ
@@ -48,6 +49,8 @@ List of favorites in no particular order.
 - World of Goo
 - Deadlock
 - Blue Prince
+- Silksong
+- Arc Raiders
 
 #### Mobile
 - Isle of Arrows
@@ -86,6 +89,7 @@ List of favorites in no particular order.
 - Best in Show
 - My Neighbors the Yamadas
 - Eat Drink Man Woman
+- Hundreds of Beavers
 
 
 ### TV Shows
@@ -115,7 +119,7 @@ List of favorites in no particular order.
 ### Food
 - Տուն, Yerevan
 - Pujol, Mexico City
-- Absolute Bagels, New York
+- Absolute Bagels, New York (rip)
 - La Palma, San Francisco
 - Arsicault Bakery, San Francisco
 - Tsaghkunk, Armenia
@@ -140,6 +144,7 @@ List of favorites in no particular order.
 - Mrmo Tarius
 - Eran Hilleli
 - The Water Museum
+- ayla~nonsense
 
 ### Visual Artists
 - Tim Peacock
@@ -155,4 +160,9 @@ List of favorites in no particular order.
 - 服部グラフィクス (Hattori2000)
 - Scott Higginbotham
 - Alariko
+- Taiyō Matsumoto
+- Wilfrid Wood
 
+### Artists
+- Do Ho Suh
+- Tom Visser

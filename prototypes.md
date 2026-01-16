@@ -10,7 +10,7 @@ An archive of prototypes that didn't become full games.
 
 Time advances for entities when they're hit by the clock hand.
 
-In the gif below, the player plants saplings that grow into trees as they get hit by the clock. When the sun is hit by the clock it switches to rain which trigger the grown tree to spawn fruit.
+Here the player plants saplings that grow into trees as they get hit by the clock. When the sun is hit by the clock it switches to rain which trigger the grown tree to spawn fruit.
 
 <img src="/assets/images/prototypes/clock_demo_1.gif" alt="clock_1" width="384"/>
 
@@ -25,9 +25,9 @@ Edit in 2025: We actually ended up making a jam game called [Tiny Time](https://
 
 ### Cauldron Game (2022)
 
-Craft hats that modify your attack by combining enemy remains in a cauldron.
+Craft hats by throwing enemy remains into a cauldron. The hats give you combo attacks based on the ingredients they were made with.
 
-In the gif below, the player starts with a hat that gives explosion + chain-lighting. You can see the blue chain-lighting radiating from three points. They then combine two explosion ingredients to get explosion + explosion.
+Here the player starts with an (explosion + chain-lighting) attack and then switches to an (explosion + explosion) attack by crafting a new hat.
 
 <img src="/assets/images/prototypes/cauldron_demo.gif" alt="cauldron_1" width="384"/>
 
