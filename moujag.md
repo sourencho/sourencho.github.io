@@ -37,22 +37,22 @@ todo
 
 #### Videos
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/trasnsfer.mov" type="video/mp4">
+  <source src="/assets/moujag/trasnsfer.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/add_color.mov" type="video/mp4">
+  <source src="/assets/moujag/add_color.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/face_grab_two.mov" type="video/mp4">
+  <source src="/assets/moujag/face_grab_two.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/face_advice.mov" type="video/mp4">
+  <source src="/assets/moujag/face_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -70,17 +70,17 @@ Your browser does not support the video tag.
 
 #### Videos
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/seam.mov" type="video/mp4">
+  <source src="/assets/moujag/seam.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/close_seam.mov" type="video/mp4">
+  <source src="/assets/moujag/close_seam.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/close_and_leave_for_sow.mov" type="video/mp4">
+  <source src="/assets/moujag/close_and_leave_for_sow.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -93,12 +93,12 @@ Your browser does not support the video tag.
 
 #### Videos
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/sow_shut_advice.mov" type="video/mp4">
+  <source src="/assets/moujag/sow_shut_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
 <video width="80%" autoplay loop preload="auto" controls>
-  <source src="/assets/moujag/clean_up_advice.mov" type="video/mp4">
+  <source src="/assets/moujag/clean_up_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
