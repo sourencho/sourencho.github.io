@@ -4,13 +4,17 @@ title: Moujag
 permalink: /moujag
 ---
 
+Instructions for Arouss's slippers :)
+
+![image](/assets/moujag/example.jpg)
+
 ## Materials
 
-todo
+\<todo\>
 
 ## Sizing
 
-todo
+\<todo\>
 
 ## A: Create the body
 
@@ -111,3 +115,9 @@ Your browser does not support the video tag.
 ## F: Attach the base
 
 1. Sow the base onto the slipper
+
+# Appendix
+
+![image](/assets/moujag/example_1.jpg)
+![image](/assets/moujag/example_2.jpg)
+![image](/assets/moujag/example_3.jpg)
