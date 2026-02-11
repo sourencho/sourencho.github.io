@@ -33,29 +33,29 @@ Instructions for Arouss's slippers :)
 
 ![image](/assets/moujag/face_1.jpg)
 
-2. With your second color yarn (red), add one row on the shorter side. After you come and go once, at the end take two s when knitting, one of each color and continue normally. Every time your each the end, take two for the remaining columns. Keep going until you have L red columns for the face.
+2. With your second color yarn (red), add one row on the shorter side. After you come and go once, at the end take two loops when knitting, one of each color. Continue knitting the remaining columns and every time your each the end take two loops. Keep going until you have L red columns for the face.
 3. Bind off the end.
 
 ![image](/assets/moujag/face_2.jpg)
 ![image](/assets/moujag/face_3.jpg)
 
 #### Videos
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/trasnsfer.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/add_color.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/face_grab_two.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/face_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -73,17 +73,17 @@ Your browser does not support the video tag.
 ![image](/assets/moujag/neck.jpg)
 
 #### Videos
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/seam.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/close_seam.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/close_and_leave_for_sow.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -96,12 +96,12 @@ Your browser does not support the video tag.
 ![image](/assets/moujag/sow_shut.jpg)
 
 #### Videos
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/sow_shut_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
-<video width="80%" playsinline  preload="auto" controls>
+<video width="80%" playsinline  preload="metadata" controls>
   <source src="/assets/moujag/clean_up_advice.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
