@@ -162,6 +162,7 @@ List of favorites in no particular order.
 - Alariko
 - Taiyō Matsumoto
 - Wilfrid Wood
+- TraceLoops
 
 ### Artists
 - Do Ho Suh
