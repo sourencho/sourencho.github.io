@@ -163,6 +163,7 @@ List of favorites in no particular order.
 - Taiyō Matsumoto
 - Wilfrid Wood
 - TraceLoops
+- Eran Hilleli
 
 ### Artists
 - Do Ho Suh
