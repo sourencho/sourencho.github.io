@@ -6,20 +6,6 @@ permalink: /favorites
 
 List of favorites in no particular order.
 
-### Books
-- The Wind-Up Bird Chronicle
-- Piranesi
-- Exhalation
-- The Three-Body Problem
-- The Gene: An Intimate History
-- On Earth We're Briefly Gorgeous
-- The Last Samurai
-- Stoner
-- Barbarian Days: A Surfing Life
-- Tomorrow, and Tomorrow, and Tomorrow
-- Overstory
-- Martyr!
-
 ### Games
 
 - Dota 2
@@ -51,13 +37,29 @@ List of favorites in no particular order.
 - Blue Prince
 - Silksong
 - Arc Raiders
+- Big Walk
 
-#### Mobile
+#### Mobile Games
 - Isle of Arrows
 - Dicey Dungeons
 - Mini Motorways
 - Balatro
 - Daily Akari (web)
+
+
+### Books
+- The Wind-Up Bird Chronicle
+- Piranesi
+- Exhalation
+- The Three-Body Problem
+- The Gene: An Intimate History
+- On Earth We're Briefly Gorgeous
+- The Last Samurai
+- Stoner
+- Barbarian Days: A Surfing Life
+- Tomorrow, and Tomorrow, and Tomorrow
+- Overstory
+- Martyr!
 
 ### Board Games
 - Puerto Rico
