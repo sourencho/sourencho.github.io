@@ -45,6 +45,7 @@ List of favorites in no particular order.
 - Mini Motorways
 - Balatro
 - Daily Akari (web)
+- Dogpile
 
 
 ### Books
