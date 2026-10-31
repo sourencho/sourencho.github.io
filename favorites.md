@@ -118,6 +118,7 @@ List of favorites in no particular order.
 - Over the Garden Wall
 - Freaks and Geeks
 - Common Side effects
+- Marvelous Mrs Maisel
 
 ### Food
 - Տուն, Yerevan
