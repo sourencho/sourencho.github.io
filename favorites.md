@@ -167,6 +167,7 @@ List of favorites in no particular order.
 - Wilfrid Wood
 - TraceLoops
 - Eran Hilleli
+- Erin Milez
 
 ### Artists
 - Do Ho Suh
